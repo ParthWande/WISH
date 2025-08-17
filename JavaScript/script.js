@@ -4,7 +4,7 @@ var pageHeightStart = window.document.body.getBoundingClientRect().width
 var pageWidth = window.document.body.scrollWidth;
 var defaultScale = 1;
 var currentTextPosition = 0
-var text = ["AAI ZHAVADI", "ITS SO SIMPLE PRESS YES OMG RETARD", "SEND BINA KAPDE KE PHOTOS", "ANNIVERSARY GIFT INCOMING", "BHAI HEAVY BUDGET HAI MERA JUST PRESS YES DUMBASS"]
+var text = ["AAI ZHAVADI", "ITS SO SIMPLE PRESS YES OMG RETARD", "SEND BINA KAPDE KE PHOTOS", "ANNIVERSARY GIFT INCOMING", "BHAI HEAVY BUDGET HAI MERA JUST PRESS YES DUMBASS","AYE","LAGA HI THHA AISA HI HOTA HAI ","AAPKI KAMI HORI HAI NGL","PUBG WHEN?","WOOOOOHOOOOOOO","lAAZ WAATU DE THODI MC","GOOD SHOT DANISH BRO"]
 const funnyText = document.querySelector('.funny_text')
 /* redirects */
 
@@ -13,7 +13,7 @@ yes.addEventListener('click', function(){
 })
 
 function omg(){
-  funnyText.innerHTML = "really?...😳"
+  funnyText.innerHTML = "DEFINETLY THE CORRECT OPTION"
 }
 
 function leave(){
